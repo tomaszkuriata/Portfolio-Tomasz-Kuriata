@@ -20,6 +20,7 @@ Od 2021 r. jestem testerem beta wyszukiwarki Google oraz Aplikacji Mój Orange.
 * PicPick
 * GitHub
 * Wordpress
+* Go Full Page
 
 ## Kursy
 * ["Zostań testerem" organizowany online przez Sii Training Practice 08-23.01.2022](https://media-exp1.licdn.com/dms/image/C4E2DAQGMsKrWlrjxLg/profile-treasury-image-shrink_1280_1280/0/1643481407000?e=1644519600&v=beta&t=Zn1QQahPh4j3az8nbfheUlJn8xbaGcYOIGD-P9ZWB5U)
