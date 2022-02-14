@@ -75,4 +75,8 @@ Od 2021 r. jestem testerem beta wyszukiwarki Google oraz Aplikacji Mój Orange.
 
 * Aplikacja Mój Orange
   * [Błąd ID3](https://drive.google.com/file/d/1U4yTgxf2EzNP9EQD3SWYHSEQ9r7c7B5U/view?usp=sharing)
+
+
+
+![](https://komarev.com/ghpvc/?username=Portfolio-Tomasz-Kuriata-github)
   
