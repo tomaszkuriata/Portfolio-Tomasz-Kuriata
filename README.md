@@ -1,4 +1,4 @@
-# **Tomasz Kuriata - Portfolio**
+# **Tomasz Kuriata**
 
 ## O mnie
 Jestem specjalistą oraz pasjonatem w dziedzinie fotografii z 17-letnim doświadczeniem, a także dużym zapleczem technicznym w obsłudze profesjonalnych 
