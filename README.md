@@ -1,7 +1,7 @@
 # **Tomasz Kuriata**
 
 ## O mnie
-Jestem specjalistą oraz pasjonatem fotografii z 17 letnim doświadczeniem oraz wiedzą techniczną w obsłudze profesjonalnych 
+Jestem specjalistą oraz pasjonatem fotografii z 17-letnim doświadczeniem oraz wiedzą techniczną w obsłudze profesjonalnych 
 programów graficznych. Od 12 lat pomagam kreować wizerunek dla  wielu polskich i zagranicznych firm. Jako funkcjonariusz publiczny 
 przez ponad 5 lat zajmowałem się zapewnieniem bezpieczeństwa wewnętrznego państwa, ochroną danych, kontrolą, ujawnianiem 
 nieprawidłowości oraz nadzorem podległej struktury. W wykonywaniu obowiązków zawodowych jestem wysoce zorganizowany, 
