@@ -1,14 +1,13 @@
 # **Tomasz Kuriata**
 
 ## O mnie
-Jestem specjalistą oraz pasjonatem w dziedzinie fotografii z 17-letnim doświadczeniem, a także dużym zapleczem technicznym w obsłudze profesjonalnych 
-programów graficznych. 
-Od 12 lat przy współpracy z Agencjami reklamowymi pomagam kreować wizerunek dla polskich i zagranicznych firm. 
-Jako funkcjonariusz publiczny przez ponad 5 lat zajmowałem się zapewnianiem bezpieczeństwa wewnętrznego państwa, ochroną danych, kontrolą, 
-skutecznym ujawnianiem nieprawidłowości oraz nadzorem podległej struktury, co pozwoliło mi na jeszcze większy rozwój osobisty i zawodowy. 
-W wykonywaniu obowiązków zawodowych jestem wysoce zorganizowany, skrupulatny oraz konsekwentny, a w relacjach międzyludzkich komunikatywny, szczery, pomocny
-i jednocześnie gotowy na rozwój, a także zdobycie nowych, trwałych kompetencji zawodowych w obszarze testowania oprogramowania. 
-Od 2021 r. jestem testerem beta wyszukiwarki Google oraz Aplikacji Mój Orange.
+Jestem specjalistą oraz pasjonatem fotografii z 17 letnim doświadczeniem oraz wiedzą techniczną w obsłudze profesjonalnych 
+programów graficznych. Od 12 lat pomagam kreować wizerunek dla  wielu polskich i zagranicznych firm. Jako funkcjonariusz publiczny 
+przez ponad 5 lat zajmowałem się zapewnieniem bezpieczeństwa wewnętrznego państwa, ochroną danych, kontrolą, ujawnianiem 
+nieprawidłowości oraz nadzorem podległej struktury. W wykonywaniu obowiązków zawodowych jestem wysoce zorganizowany, 
+dokładny oraz konsekwentny. W relacjach zawodowych komunikatywny, otwarty, pomocny, dlatego też jestem gotów wykorzystać 
+cały swój potencjał na rozwój, naukę, a także zdobycie nowych i trwałych kompetencji zawodowych w zakresie testowania oprogramowania.
+
  
 
 
