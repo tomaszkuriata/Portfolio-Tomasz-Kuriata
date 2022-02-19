@@ -1,36 +1,42 @@
 # **Tomasz Kuriata**
 
-## O mnie
-Jestem specjalistą oraz pasjonatem fotografii z 17-letnim doświadczeniem oraz wiedzą techniczną w obsłudze profesjonalnych 
-programów graficznych. Od 12 lat pomagam kreować wizerunek dla  wielu polskich i zagranicznych firm. Jako funkcjonariusz publiczny 
-przez ponad 5 lat zajmowałem się zapewnieniem bezpieczeństwa wewnętrznego państwa, ochroną danych, kontrolą, ujawnianiem 
-nieprawidłowości oraz nadzorem podległej struktury. W wykonywaniu obowiązków zawodowych jestem wysoce zorganizowany, 
+> ## O mnie
+_Specjalista oraz pasjonat fotografii z 17-letnim doświadczeniem oraz wiedzą techniczną w obsłudze profesjonalnych 
+programów graficznych. Od 12 lat pomagałem kreować wizerunek dla  ponad 10 polskich i zagranicznych firm. Jako funkcjonariusz publiczny 
+przez ponad 5 lat zajmowałem się zapewnieniem bezpieczeństwa wewnętrznego państwa, ochroną danych, kontrolą, skutecznym ujawnianiem 
+nieprawidłowości i przemytów oraz nadzorem podległej struktury. W wykonywaniu obowiązków zawodowych jestem wysoce zorganizowany, 
 dokładny oraz konsekwentny. W relacjach zawodowych komunikatywny, otwarty, pomocny, dlatego też jestem gotów wykorzystać 
-cały swój potencjał na rozwój, naukę, a także zdobycie nowych i trwałych kompetencji zawodowych w zakresie testowania oprogramowania.
+cały swój potencjał na rozwój, naukę, a także zdobycie nowych i trwałych kompetencji zawodowych w zakresie testowania oprogramowania._
 
  
 
 
-## Media branżowe
+> ## Media branżowe
 * [LinkedIn](https://www.linkedin.com/in/tomaszkuriata/)
 
-## Narzędzia
-* MS SQL
+> ## Narzędzia
+* MS SQL - podstawowa znajomość
 * PicPick
 * GitHub
-* Wordpress
+* Wordpress(CMS) - [administrowanie autorską stroną](https://qphoto.pl/)
 * Go Full Page
+> ## Kursy
+*  _["Zostań testerem" organizowany online przez Sii Training Practice 08-23.01.2022 r.](https://media-exp1.licdn.com/dms/image/C4E2DAQGMsKrWlrjxLg/profile-treasury-image-shrink_1280_1280/0/1643481407000?e=1644519600&v=beta&t=Zn1QQahPh4j3az8nbfheUlJn8xbaGcYOIGD-P9ZWB5U)_
 
-## Kursy
-* ["Zostań testerem" organizowany online przez Sii Training Practice 08-23.01.2022](https://media-exp1.licdn.com/dms/image/C4E2DAQGMsKrWlrjxLg/profile-treasury-image-shrink_1280_1280/0/1643481407000?e=1644519600&v=beta&t=Zn1QQahPh4j3az8nbfheUlJn8xbaGcYOIGD-P9ZWB5U)
++ Szkolenie obejmowało:
+   + wiedzę teoretyczną z zakresu ISTQB, 
+   + metody, narzędzia i techniki testowania (Redmine, TestLink), 
+   + analizę i tworzenie dokumentacji testowej, 
+   + wprowadzenie do baz danych i języka SQL, 
+   + podstawy automatyzacji testów (Selenium).
 * "Praktyczny kurs testowania oprogramowania" Rafał Podraza /Udemy
 
-## Pozycje technicznych książek
-* **"Certyfikowany tester. Sylabus poziomu podstawowego ISTQB. 2018"**
-* **"Certyfikowany tester ISTQB. Poziom podstawowy"** A.Roman, L.Stapp
-* **"Zawód tester"** R.Smilgin
+> ## Pozycje technicznych książek
+* _**"Certyfikowany tester. Sylabus poziomu podstawowego ISTQB. 2018"**_
+* _**"Certyfikowany tester ISTQB. Poziom podstawowy"**_ A.Roman, L.Stapp
+* _**"Zawód tester"**_ R.Smilgin
 
-## Grupy testerskie
+> ## Grupy testerskie
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 * [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 * [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
@@ -44,7 +50,7 @@ cały swój potencjał na rozwój, naukę, a także zdobycie nowych i trwałych 
 * [Testowanie oprogramowania - PRACA, Ogłoszenia](https://www.facebook.com/groups/testowanieoprogramowaniapraca)
 * [HTML, CSS i JS: pierwsze kroki](https://www.facebook.com/groups/html.css.js.pierwsze.kroki)
 
- ## Blogi i strony tematyczne
+ > ## Blogi i strony tematyczne
 * [geek.justjoin.it](https://geek.justjoin.it/category/qa)
 * [myservername.com](https://myservername.com/)
 * [www.wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
@@ -55,19 +61,23 @@ cały swój potencjał na rozwój, naukę, a także zdobycie nowych i trwałych 
 * [jaktestowac.pl](https://jaktestowac.pl/category/wpisy/)
 * [sii.pl](https://sii.pl/blog/)
 
-## W trakcie realizacji
+> ## W trakcie realizacji
 * Przygotowanie do egzaminu ISTQB FL 03.03.2022 r.
-* Książka "Zawód tester" R.Smilgin
+* Książka _**"Zawód tester"**_ R.Smilgin
 
-## Webinary
+> ## Najbliżesze webinary i warsztaty ##
++ 28.02.2022 r. Warsztaty: Podstawy SQL część 1 with Ifs&Whiles
++ 09.03.2022 r. Warsztaty - API HTTP z użyciem Postman with Ifs&Whiles
+
+> ## Webinary
 * "Poznaj swoich przyszłych pracodawców"  [Future Collars](https://futurecollars.com/) 
 * "Tester oprogramowania", "Software Tester" [Software Development Academy](https://sdacademy.pl/)
 * "Egzaminy ISTQB. Pytania i odpowiedzi" [testerzy.pl](https://testerzy.pl/)
 
-## Przypadki Testowe
+> ## Przypadki Testowe
 * [Mr.Buggy](https://drive.google.com/file/d/1Xd7Hn8CPNUOohyMSpHxb9a5AKD7Rs92X/view?usp=sharing)
 
-## Zgłoszenie błedu
+> ## Zgłoszenie błedu
 * Przeglądarka internetowa Google(beta)
   * [Błąd ID1](https://drive.google.com/file/d/1iNPcxlSfJkjqsJDzrp5-ZGNK8LcaUQxf/view?usp=sharing)
   * [Błąd ID2](https://drive.google.com/file/d/1cYS06b0NkhdeH_1MNAkHvDtnkoIkIctE/view?usp=sharing)
