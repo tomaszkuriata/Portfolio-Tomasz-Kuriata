@@ -67,7 +67,9 @@ cały swój potencjał na rozwój, naukę, a także zdobycie nowych i trwałych 
 
 > ## Najbliżesze webinary i warsztaty ##
 + 28.02.2022 r. Warsztaty: Podstawy SQL część 1 with Ifs&Whiles
++ 01.03.2022 r. Webinar : Wejdź do świata Capgemini. Testing
 + 09.03.2022 r. Warsztaty - API HTTP z użyciem Postman with Ifs&Whiles
+
 
 > ## Webinary
 * "Poznaj swoich przyszłych pracodawców"  [Future Collars](https://futurecollars.com/) 
