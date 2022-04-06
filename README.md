@@ -62,7 +62,7 @@ cały swój potencjał na rozwój, naukę, a także zdobycie nowych i trwałych 
 * [sii.pl](https://sii.pl/blog/)
 
 > ## W trakcie realizacji
-* Przygotowanie do egzaminu ISTQB FL 03.03.2022 r.
+* Nauka Java przy wsparciu mentorskim
 * Książka _**"Zawód tester"**_ R.Smilgin
 
 > ## Najbliżesze webinary i warsztaty ##
