@@ -14,12 +14,16 @@ cały swój potencjał na rozwój, naukę, a także zdobycie nowych i trwałych 
 > ## Media branżowe
 * [LinkedIn](https://www.linkedin.com/in/tomaszkuriata/)
 
-> ## Narzędzia
-* MS SQL - podstawowa znajomość
+> ## Narzędzia (znajomość podstawowa)
+* MS SQL
+* Java
+* InteliJ
+* Jira
 * PicPick
 * GitHub
 * Wordpress(CMS) - [administrowanie autorską stroną](https://qphoto.pl/)
 * Go Full Page
+
 > ## Kursy
 *  _["Zostań testerem" organizowany online przez Sii Training Practice 08-23.01.2022 r.](https://media-exp1.licdn.com/dms/image/C4E2DAQGMsKrWlrjxLg/profile-treasury-image-shrink_1280_1280/0/1643481407000?e=1644519600&v=beta&t=Zn1QQahPh4j3az8nbfheUlJn8xbaGcYOIGD-P9ZWB5U)_
 
@@ -62,16 +66,16 @@ cały swój potencjał na rozwój, naukę, a także zdobycie nowych i trwałych 
 * [sii.pl](https://sii.pl/blog/)
 
 > ## W trakcie realizacji
-* Nauka Java przy wsparciu mentorskim
-* Książka _**"Zawód tester"**_ R.Smilgin
+* Nauka Java oraz SQL przy wsparciu mentorskim
+* Regularna nauka języka angielskiego z native speaker'em
 
-> ## Najbliżesze webinary i warsztaty ##
+> ## Warsztaty ##
 + 28.02.2022 r. Warsztaty: Podstawy SQL część 1 with Ifs&Whiles
-+ 01.03.2022 r. Webinar : Wejdź do świata Capgemini. Testing
 + 09.03.2022 r. Warsztaty - API HTTP z użyciem Postman with Ifs&Whiles
 
 
 > ## Webinary
+* "Wejdź do świata Capgemini. Testing"
 * "Poznaj swoich przyszłych pracodawców"  [Future Collars](https://futurecollars.com/) 
 * "Tester oprogramowania", "Software Tester" [Software Development Academy](https://sdacademy.pl/)
 * "Egzaminy ISTQB. Pytania i odpowiedzi" [testerzy.pl](https://testerzy.pl/)
