@@ -15,14 +15,14 @@ cały swój potencjał na rozwój, naukę, a także zdobycie nowych i trwałych 
 * [LinkedIn](https://www.linkedin.com/in/tomaszkuriata/)
 
 > ## Narzędzia (znajomość podstawowa)
-* MS SQL
+* SQL Server
 * Java
-* InteliJ
+* IntelliJ
 * Jira
 * PicPick
 * GitHub
-* Wordpress(CMS) - [administrowanie autorską stroną](https://qphoto.pl/)
-* Go Full Page
+* Wordpress(CMS)
+
 
 > ## Kursy
 *  _["Zostań testerem" organizowany online przez Sii Training Practice 08-23.01.2022 r.](https://media-exp1.licdn.com/dms/image/C4E2DAQGMsKrWlrjxLg/profile-treasury-image-shrink_1280_1280/0/1643481407000?e=1644519600&v=beta&t=Zn1QQahPh4j3az8nbfheUlJn8xbaGcYOIGD-P9ZWB5U)_
@@ -39,6 +39,7 @@ cały swój potencjał na rozwój, naukę, a także zdobycie nowych i trwałych 
 * _**"Certyfikowany tester. Sylabus poziomu podstawowego ISTQB. 2018"**_
 * _**"Certyfikowany tester ISTQB. Poziom podstawowy"**_ A.Roman, L.Stapp
 * _**"Zawód tester"**_ R.Smilgin
+* _**"Rusz głową. Java"**_ O'Reilly. K.Sierra,B.Bates
 
 > ## Grupy testerskie
 * [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
@@ -66,7 +67,7 @@ cały swój potencjał na rozwój, naukę, a także zdobycie nowych i trwałych 
 * [sii.pl](https://sii.pl/blog/)
 
 > ## W trakcie realizacji
-* Nauka Java oraz SQL przy wsparciu mentorskim
+* Samodzielna nauka języków Java oraz SQL
 * Regularna nauka języka angielskiego z native speaker'em
 
 > ## Warsztaty ##
